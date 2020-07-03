@@ -1,0 +1,45 @@
+form{
+    height: 450px;
+    width: 600px;
+    background-color: aqua;
+}
+.form{
+    height: 80px;
+    width: auto;
+    background-color: rgb(111, 210, 30);
+    padding: 5px 30px
+}
+.first-heading{
+    font-size: 30px;
+}
+.space{
+    margin-left: 200px;
+    color:yellow;
+}
+.last-name{
+    margin-left: 247px;
+}
+.email{
+    margin-left: 200px;
+}
+.phone{
+    margin-left: 135px;
+    margin-bottom: 5px;
+}
+.drop-number{
+    margin-left: 245px;
+}
+.url-link{
+    margin-left: 144px;
+}
+.messege{
+    margin-left: 182px;
+}
+.button{
+    margin-left: 245px ;
+    margin-top: 20px;
+    padding: 4px 30px;
+    border-radius: 5px;
+    background-color: coral;
+}
+
